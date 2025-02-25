@@ -34,10 +34,13 @@ The dataset used for this project contains information on customer demographics,
 6. **Service Usage Breakdown**: Pie chart showing the percentage of customers using different services
 
 ## Dashboard Features
-
+![Image](https://github.com/user-attachments/assets/fab25817-692b-4968-a21a-feaf2888c2b5)
 - Interactive filters for gender, contract type, and internet service
 - Drill-through options to analyze individual customer profiles
 - Dynamic tooltips with detailed information
+![image](https://github.com/user-attachments/assets/9b6717eb-468d-4e30-ad3f-1993af6329ca)
+![image](https://github.com/user-attachments/assets/17260e32-05b5-4cf4-b01a-92d443c44ae5)
+
 
 ## Methodology
 
